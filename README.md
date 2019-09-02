@@ -5,13 +5,13 @@
 
 ## Summary
 
-The Code of Conscience platform is a low-cost cellular and GPS enabled IoT gateway design around the Nordic Semiconductor nRF9160 module. 
+The Code of Conscience platform is a low-cost cellular and GPS enabled IoT gateway, design around the Nordic Semiconductor nRF9160 module, created to help solve problems relation to deforestation by directly raising awareness through remote monitoring of earth moving machinery working within protected rainforest areas.
 
-This designs shared here provide the foundational electronics design files intended for those individuals and organisations who wish to building smart devices which can ultimately be used to track and prevent rain-forest harvest outside the designated areas or be extended to detect fire within the worlds protected forests.
+The works shared here provide the full collection of schematic and PCB design files intended for those individuals and organisations who wish to building smart devices that can ultimately be used to track and prevent rain-forest harvest and destruction outside the designated areas. The source designs can also be extended and customised to detect fire within the worlds protected forests.
 
->This platform has been designed to help enable the people of Brazil and the Amazon rainforest specifically by making it easier to design and fabricate technology which can be used for the protection of this precious resource, "The Lungs of the Earth".
+>This platform has specifically been created to help enable the people of Brazil and the Amazon rainforest by making it easier to design and fabricate technology which can be used for the protection of this precious resource, "The Lungs of the Earth".
 
-The Code of Conscience Hardware Repository includes the design and manufacturing files for the open source project.
+The Code of Conscience Hardware Repository includes the design and manufacturing files for this open source project.
 
 
 ## License
