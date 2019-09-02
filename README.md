@@ -1,5 +1,5 @@
 <img src="/IMG/Code-of-Conscience%20Logo.png" alt="Tekt Industries" width ="300"/>
-###
+
 
 [![License](https://poser.pugx.org/automattic/jetpack/license.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -23,10 +23,6 @@ This documentation contains information which is provided AS IS, without attribu
 
 A dedicated team of engineers at [Tekt Industries](https://www.tektindustries.com), an international product design house based in  Melbourne, Australia brought together their years of experience within the IoT hardware development space to help create this hardware platform so that it may be shared with the world.
 
-
-
-
 ![PCB]
 
-[PCB]: ./IMG/CoC%20Front%20Render.png "CoC Logo"
-[TEKT]: ./IMG/TektLogo.png "Tekt Industries"
+[PCB]: (https://github.com/Tekt-Industries/CodeOfConscience/blob/master/IMG/CoC%20Front%20Render.PNG) "CoC Logo"
