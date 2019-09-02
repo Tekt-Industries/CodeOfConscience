@@ -1,8 +1,6 @@
 # Code Of Conscience
 
-![alt text][logo]
-
-![License](https://poser.pugx.org/automattic/jetpack/license.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://poser.pugx.org/automattic/jetpack/license.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Summary
 
