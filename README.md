@@ -1,5 +1,6 @@
 <img src="/IMG/Code-of-Conscience%20Logo.png" alt="Tekt Industries" width ="300"/>
 ###
+
 [![License](https://poser.pugx.org/automattic/jetpack/license.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Summary
