@@ -1,5 +1,7 @@
 # Code Of Conscience
 
+[![License](https://poser.pugx.org/automattic/jetpack/license.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+
 ## Summary
 
 The Code of Conscience Hardware Repository includes the design and manufacturing files or the open source project.
