@@ -12,4 +12,4 @@ The Code of Conscience Hardware Repository includes the design and manufacturing
 
 This documentation contains information which is provided AS IS, without attribution of liability or warranty under the GNU GPL v2.0 License - Open Source and permissive for commercial use, modification, distribution, and private use.
 
-[logo]: (https://github.com/Tekt-Industries/CodeOfConscience/blob/master/IMG/Code-of-Conscience%20Logo.png  | width=100)
+[logo]: (https://github.com/Tekt-Industries/CodeOfConscience/blob/master/IMG/Code-of-Conscience%20Logo.png)
