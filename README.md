@@ -25,4 +25,4 @@ A dedicated team of engineers at [Tekt Industries](https://www.tektindustries.co
 
 ![PCB]
 
-[PCB]: /IMG/CoC%20Front%20Render.png "CoC Logo"
+[PCB]: https://github.com/Tekt-Industries/CodeOfConscience/blob/master/IMG/CoC%20Front%20Render.PNG "Tekt Industries"
