@@ -5,7 +5,9 @@
 
 ## Summary
 
-The Code of Conscience hardware platform was created as a call-to-action for partners to co-develop a low-cost, mass-manufacturable asset tracking system, designed specifically for the heavy machinery industry, including earth-moving equipment. Asset tracking telemetry systems are not a new technology and can be found in some modern heavy machinery but we currently don't use the data from these systems to protect ecosystems or provide transparency around their use. Older machinery is also unlikely to include asset tracking technology and can therefore slip through the cracks.  
+The Code of Conscience hardware platform was created as a call-to-action for partners to co-develop a low-cost, mass-manufacturable asset tracking system, designed specifically for the heavy machinery industry, including earth-moving equipment. 
+
+Asset tracking telemetry systems are not a new technology and can be found in some modern heavy machinery but we currently don't use the data from these systems to protect ecosystems or provide transparency around their use. Older machinery is also unlikely to include asset tracking technology and can therefore slip through the cracks.  
 
 The hardware platform itself is a low-component count cellular and GPS enabled IoT gateway, designed around the Nordic Semiconductor nRF9160 module, created to help start finding solutions to the world-wide problem of deforestation by directly raising awareness through remote monitoring of earth moving machinery potentially working illegally within protected rainforest areas.
 
