@@ -24,6 +24,8 @@ This documentation contains information which is provided AS IS, without attribu
 
 A dedicated team of engineers at [Tekt Industries](https://www.tektindustries.com), an international product design house based in  Melbourne, Australia brought together their years of experience within the IoT hardware development space to help create the initial hardware platform so that it may be shared with the world and grow from here.
 
+We have been inspired by [AKQA](https://www.akqa.com), who heralded the call to action, crafted sample code, and provided the basis for the graphics that adorn the hardware platform.
+
 ![PCB]
 
 [PCB]: https://github.com/Tekt-Industries/CodeOfConscience/blob/master/IMG/CoC%20Front%20Render.PNG "Tekt Industries"
