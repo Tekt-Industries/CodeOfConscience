@@ -5,14 +5,15 @@
 
 ## Summary
 
-The Code of Conscience platform is a low-cost cellular and GPS enabled IoT gateway, design around the Nordic Semiconductor nRF9160 module, created to help solve problems relation to deforestation by directly raising awareness through remote monitoring of earth moving machinery working within protected rainforest areas.
+The Code of Conscience hardware platform was created as a call-to-action for partners to co-develop a low-cost, mass-manufacturable asset tracking system, designed specifically for the heavy machinery industry, including earth-moving equipment. Asset tracking telemetry systems are not a new technology and can be found in some modern heavy machinery but we currently don't use the data from these systems to protect ecosystems or provide transparency around their use. Older machinery is also unlikely to include asset tracking technology and can therefore slip through the cracks.  
 
-The works shared here provide the full collection of schematic and PCB design files intended for those individuals and organisations who wish to building smart devices that can ultimately be used to track and prevent rain-forest harvest and destruction outside the designated areas. The source designs can also be extended and customised to detect fire within the worlds protected forests.
+The hardware platform itself is a low-component count cellular and GPS enabled IoT gateway, designed around the Nordic Semiconductor nRF9160 module, created to help start finding solutions to the world-wide problem of deforestation by directly raising awareness through remote monitoring of earth moving machinery potentially working illegally within protected rainforest areas.
 
->This platform has specifically been created to help enable the people of Brazil and the Amazon rainforest by making it easier to design and fabricate technology which can be used for the protection of this precious resource, "The Lungs of the Earth".
+The works shared here provide the full collection of schematic and PCB design files intended as a starting point for those individuals and organisations who wish to build smart devices that can ultimately be used to track and prevent rain-forest harvest and destruction outside the designated areas. 
 
-The Code of Conscience Hardware Repository includes the design and manufacturing files for this open source project.
+These open-source designs can also be extended and customised to do more than asset tracking. For instance, the platform could be modified to detect fire within the worlds protected forests as an early warning system.
 
+We encourage you to take up this call-to-action and create technology that changes our world for the better. 
 
 ## License
 
@@ -21,7 +22,7 @@ This documentation contains information which is provided AS IS, without attribu
 ## Contributors
 
 
-A dedicated team of engineers at [Tekt Industries](https://www.tektindustries.com), an international product design house based in  Melbourne, Australia brought together their years of experience within the IoT hardware development space to help create this hardware platform so that it may be shared with the world.
+A dedicated team of engineers at [Tekt Industries](https://www.tektindustries.com), an international product design house based in  Melbourne, Australia brought together their years of experience within the IoT hardware development space to help create the initial hardware platform so that it may be shared with the world and grow from here.
 
 ![PCB]
 
